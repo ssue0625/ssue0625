@@ -2,7 +2,7 @@
 - 👋 Hi, I’m soobin.
 - 💌 How to reach me: ssue0625@gmail.com
 
-![ssue0625's Top Langs](https://github-readme-stats-soobinua.vercel.app/api/top-langs/?username=soobinua&layout=compact) 
+![Soobinua's Top Langs](https://github-readme-stats-soobinua.vercel.app/api/top-langs/?username=soobinua&layout=compact&theme=default)
 
 <!--
 **ssue0625/ssue0625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
